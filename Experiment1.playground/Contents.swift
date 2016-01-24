@@ -2,7 +2,7 @@
 
 import UIKit
 
-let listNumbers: [Int] = [1,2,4,8,10,20,30,2,1,10];
+let listNumbers: [Int] = [1,2,4,8,10,20,30,2,1,10]
 
 func numberOfOcurrences(array: [Int]) -> [(Int,Int)] {
     
